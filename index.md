@@ -7,5 +7,5 @@ I have recently started to use fastai and the purpose of this blog is simply to 
 <div>
     <img src="images/logo.png" alt="fast.ai logo" style="width:234px; height:300px; display:inline-block;">
     <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Octocat" style="width:130px; height:300px; display:inline-block;">
-</div>![image](https://github.com/Junjie61/Junjie61.github.io/assets/20298121/31fe74df-744a-42c5-9e36-a48a68e40319)
+</div>
 
