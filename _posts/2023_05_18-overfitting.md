@@ -30,8 +30,6 @@ Overfitting can have several negative consequences:
 
 3. **Wasted Resources**: Training an overfit model requires unnecessary computational resources and time.
 
-![fitting](/images/fitting.svg "fitting")
-
 ## Addressing Overfitting
 
 Several techniques can help address the problem of overfitting:
