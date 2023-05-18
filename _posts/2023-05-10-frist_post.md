@@ -1,6 +1,7 @@
 # Important Machine Learning Jargon and Their Meanings
 
 https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html
+https://developers.google.com/machine-learning/glossary
 
 Machine learning is a rapidly evolving field with its own set of jargon and terminology. In this blog post, we will demystify some of the most commonly used terms in machine learning and explain their meanings in simple language.
 
