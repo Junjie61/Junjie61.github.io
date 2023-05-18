@@ -1,10 +1,10 @@
 # Understanding Overfitting in Machine Learning
 
-![Overfitting](/images/overfitting.jpg "overfitting")
-
 Machine learning models are powerful tools for solving complex problems and making predictions. However, one common challenge in machine learning is overfitting. In this blog post, we will explore what overfitting is, why it occurs, and how to address it.
 
 ## What is Overfitting?
+
+![Overfitting](/images/overfitting.jpg "overfitting")
 
 Overfitting refers to a situation where a machine learning model performs well on the training data but fails to generalize to unseen or new data. In other words, the model "memorizes" the training examples instead of learning the underlying patterns and relationships.
 
