@@ -42,4 +42,3 @@ Precision, recall, and F1 score are evaluation metrics used in classification ta
 
 Understanding the jargon and terminology used in machine learning is essential for effective communication and comprehension. In this blog post, we covered some important terms such as supervised learning, unsupervised learning, feature extraction, bias, variance, hyperparameters, cross-validation, precision, recall, and F1 score. By grasping these concepts, you'll be better equipped to dive into the exciting world of machine learning.
 
-*Author: John Doe*
