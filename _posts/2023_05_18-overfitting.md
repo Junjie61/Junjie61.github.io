@@ -1,9 +1,6 @@
 # Understanding Overfitting in Machine Learning
 
-![](https://example.com/overfitting.png)
 ![Overfitting](/images/overfitting.jpg "overfitting")
-![fitting](/images/fitting.svg "fitting")
-
 
 Machine learning models are powerful tools for solving complex problems and making predictions. However, one common challenge in machine learning is overfitting. In this blog post, we will explore what overfitting is, why it occurs, and how to address it.
 
@@ -32,6 +29,8 @@ Overfitting can have several negative consequences:
 2. **Loss of Interpretability**: Overfit models tend to capture noise and irrelevant features, making it difficult to interpret the model's decisions and understand the underlying relationships in the data.
 
 3. **Wasted Resources**: Training an overfit model requires unnecessary computational resources and time.
+
+![fitting](/images/fitting.svg "fitting")
 
 ## Addressing Overfitting
 
