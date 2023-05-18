@@ -1,8 +1,5 @@
 # Important Machine Learning Jargon and Their Meanings
 
-https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html
-https://developers.google.com/machine-learning/glossary
-
 Machine learning is a rapidly evolving field with its own set of jargon and terminology. In this blog post, we will demystify some of the most commonly used terms in machine learning and explain their meanings in simple language.
 
 ## 1. **Supervised Learning**
@@ -43,3 +40,7 @@ Precision, recall, and F1 score are evaluation metrics used in classification ta
 
 Understanding the jargon and terminology used in machine learning is essential for effective communication and comprehension. In this blog post, we covered some important terms such as supervised learning, unsupervised learning, feature extraction, bias, variance, hyperparameters, cross-validation, precision, recall, and F1 score. By grasping these concepts, you'll be better equipped to dive into the exciting world of machine learning.
 
+
+https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html
+
+https://developers.google.com/machine-learning/glossary
