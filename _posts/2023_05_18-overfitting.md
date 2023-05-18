@@ -2,7 +2,7 @@
 
 ![](https://example.com/overfitting.png)
 ![Overfitting](/images/overfitting.jpg "overfitting")
-![fitting](/images/fitting.jpg "fitting")
+![fitting](/images/fitting.svg "fitting")
 
 
 Machine learning models are powerful tools for solving complex problems and making predictions. However, one common challenge in machine learning is overfitting. In this blog post, we will explore what overfitting is, why it occurs, and how to address it.
