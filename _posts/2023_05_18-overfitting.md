@@ -22,6 +22,8 @@ Overfitting can occur due to various reasons:
 
 ## Effects of Overfitting
 
+![fitting](/images/fitting.svg "fitting")
+
 Overfitting can have several negative consequences:
 
 1. **Poor Generalization**: An overfit model fails to generalize to new data, leading to poor performance on real-world examples.
@@ -29,8 +31,6 @@ Overfitting can have several negative consequences:
 2. **Loss of Interpretability**: Overfit models tend to capture noise and irrelevant features, making it difficult to interpret the model's decisions and understand the underlying relationships in the data.
 
 3. **Wasted Resources**: Training an overfit model requires unnecessary computational resources and time.
-
-![fitting](/images/fitting.svg "fitting")
 
 ## Addressing Overfitting
 
