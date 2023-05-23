@@ -22,6 +22,8 @@ Overfitting can occur due to various reasons:
 
 ## Effects of Overfitting
 
+![fitting](/images/fitting.svg "fitting")
+
 Overfitting can have several negative consequences:
 
 1. **Poor Generalization**: An overfit model fails to generalize to new data, leading to poor performance on real-world examples.
