@@ -6,6 +6,6 @@
 
 The cost function measures the model’s error on a group of objects, whereas the loss function deals with a single data instance.
 
-![Cost functions and gradient descent](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fmachine-learning-fundamentals-via-linear-regression-41a5d11f5220&psig=AOvVaw3VmbQjPOPhptXqp-O6U6xa&ust=1685067040138000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiSjIayj_8CFQAAAAAdAAAAABAY)
+
 
 
