@@ -1,3 +1,5 @@
+# Comparision Between loss, cost and probability
+
 | Concept    | Description                                                         |
 |------------|---------------------------------------------------------------------|
 | Cost       | The cost function measures the overall performance of a model by calculating the average difference between predicted and actual values. It quantifies the model's ability to generalize to unseen data.                          |
